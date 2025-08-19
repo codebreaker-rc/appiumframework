@@ -1,0 +1,18 @@
+{
+  "Iphone14 Plus": {
+      "deviceName": "iPhone 14 Plus",
+      "platformName": "iOS",
+      "platfromVersion": "16",
+      "app":"lt://APP10160211421753438945720277"
+  },
+  "VivoT1": {
+    "deviceName": "Vivo T1 5G",
+    "platformName": "Android",
+    "platfromVersion":"12",
+    "app": "lt://APP10160211421753374405583329"
+  },
+  "Chrome": {
+    "username": "testuser",
+    "password": "testpassword"
+  }
+}
