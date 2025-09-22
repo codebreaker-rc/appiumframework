@@ -30,6 +30,6 @@ public class LoginPage extends BasePage{
     }
 
     public void clickLoginBtn(){
-        click(LoginBtnn);
+        click(LoginBtn);
     }
 }
